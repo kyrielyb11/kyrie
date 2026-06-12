@@ -3,4 +3,4 @@
 <!-- saved from url=(0093)file:///C:/Users/32683/Desktop/kai%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=GBK"></head><body>
 <p>欧文刘一博</p>
-<img src="C:\Users\32683\Desktop\kai的第一个网页_files\7F8ED634699B2D1EEA0B3222F727E522F03732A4_size1507_w3000_h2000.jpg" height="350" width="500"></body></html>
+<img src="https://x0.ifengimg.com/ucms/2023_38/7F8ED634699B2D1EEA0B3222F727E522F03732A4_size1507_w3000_h2000.jpg" height="350" width="500"></body></html>
